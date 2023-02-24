@@ -81,7 +81,7 @@ const About = () => {
               spy={true}>
               <button className='btn btn-lg'>Contact me</button>
               </Link>
-              { /* <Resume /> */}
+              <Resume />
         </div>
         </motion.div>
         </div>
