@@ -1,2 +1,5 @@
-# Portfolio WIP
-Hosting for portfolio website. Currently work in progress.
+# Portfolio
+A simple Portfolio site built using React and Tailwind CSS. 
+
+# Features
+## Single Page Application
