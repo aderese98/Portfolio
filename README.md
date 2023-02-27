@@ -1,6 +1,6 @@
 # Portfolio
 A simple Portfolio site built using React and Tailwind CSS.\n
-[Hosted Here!] (https://portfolio-aderese98.vercel.app/)
+[Hosted Here!](https://portfolio-aderese98.vercel.app/)
 
 # Features
 ## Single Page Application
