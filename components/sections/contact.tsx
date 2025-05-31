@@ -47,7 +47,7 @@ export function Contact() {
                     <span>LinkedIn Profile</span>
                   </a>
                   <a
-                    href="https://github.com/devabe-code"
+                    href="https://github.com/aderese98"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-3 text-sm sm:text-base text-muted-foreground hover:text-primary transition-colors"

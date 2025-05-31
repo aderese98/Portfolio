@@ -24,7 +24,7 @@ export function About() {
                 About Me
               </h2>
               <p className="text-sm sm:text-base md:text-lg text-muted-foreground">
-                I'm Abraham Derese, a computer engineer with expertise in software development, cybersecurity, and AI. I specialize in building robust systems that power mission-critical operations.
+                I&apos;m Abraham Derese, a computer engineer with expertise in software development, cybersecurity, and AI. I specialize in building robust systems that power mission-critical operations.
               </p>
             </div>
 
@@ -53,9 +53,9 @@ export function About() {
                 <div className="space-y-1">
                   <h4 className="text-base sm:text-lg font-medium">University of Maryland College Park</h4>
                   <ul className="space-y-1 sm:space-y-2 text-sm sm:text-base text-muted-foreground">
-                    <li>M.S. Computer Science '24</li>
-                    <li>B.S. Computer Science '23 (GPA 3.89)</li>
-                    <li>B.S. Applied Mathematics '25</li>
+                    <li>M.S. Computer Science &apos;24</li>
+                    <li>B.S. Computer Science &apos;23 (GPA 3.89)</li>
+                    <li>B.S. Applied Mathematics &apos;25</li>
                   </ul>
                 </div>
               </div>
